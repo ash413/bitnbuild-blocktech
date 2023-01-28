@@ -1,0 +1,19 @@
+.topnav{
+    position: absolute;
+    background-color: teal;
+};
+.topnav a{
+    position: absolute;
+    float: left;
+    text-align: center;
+    padding: 14px 16px;
+    font-size: 17px;
+};
+.topnav a.active{
+    position: absolute;
+    background-color: aliceblue;
+    color: white;
+};
+.topnav #register{
+    
+};
