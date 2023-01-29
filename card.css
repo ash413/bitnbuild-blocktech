@@ -1,0 +1,57 @@
+.card{
+    position: absolute;
+    border-style: solid;
+    left:20%;
+    top:30%;
+    width: 20%;
+    border-width: 1px;
+    height: 10%;
+    background-color: orange;
+}
+.card-title{
+    position: absolute;
+    top: 5%;
+    left:35%;
+    font-size: 20px;
+}
+.card-text{
+    position: absolute;
+    top: 1%;
+    left:4%;
+}
+.card-link{
+    position: absolute;
+    top: 55%;
+    left:35%;
+}
+.cardbord{
+    position: absolute;
+    border-style: solid;
+    left:60%;
+    top:30%;
+    width: 20%;
+    border-width: 1px;
+    height: 10%;
+    background-color: yellow;
+}
+.cardtitle{
+    position: absolute;
+    top: 5%;
+    left:35%;
+    font-size: 20px;
+}
+.cardlink{
+    position: absolute;
+    top: 55%;
+    left:45%;
+}
+.button{
+    position: absolute;
+    top: 55%;
+    left:38%;
+}
+.button1{
+    position: absolute;
+    top: 55%;
+    left:35%;
+}
